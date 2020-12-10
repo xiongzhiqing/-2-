@@ -75,9 +75,4 @@ console.log('"\\t"匹配\\S：', regNotS.test('\t'))
 console.log('"0"匹配\\S：', regNotS.test('0'))
 
 
-/**
- * 字符组运算
- *
- *
-*/
 
